@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zpIEF9MVB0lMvDteK2qio4H6CxziaLOPv46PooHYgNwHZT5zMbbfm1JfbpD1AVPtWV23xpa5rARhmJVR4AK5Vw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sparr\\OneDrive\\Desktop\\New folder\\MySmallProjectsInC--master\\Student_Project_ADO_CleanArchitecture\\ADO.Application\\ADO.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sparr\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
